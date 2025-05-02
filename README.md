@@ -13,7 +13,7 @@ Programa exclusivo e gratuito. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Play Fun" src="" width="100%">
+  <img alt="projeto Play Fun" src="./img/Captura de tela 2025-05-02 201752.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
